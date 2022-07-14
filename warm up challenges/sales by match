@@ -10,7 +10,57 @@ complete the socker function in the editor
 n = numbers of socks
 
 ar(n) the color of each sock
-returns the number of pairs
+
+retornar el numero de pares
+
+
+example 
+
+n = 7   = un arreglo de 7 numeros
+
+ar = [1,2,1,2,1,3,2]
+
+1 par de 1      numeros pares
+1 par de 2
+
+
+hay 3 calcetines impares 
+1 de cada color
+
+el numero de pares son 2
+
+descripcion de la funcion
+
+completar la funcion
+sockMechant
+
+aca abajo
+
+la funcion tiene los siguientes parametros
+n = es el numero de calcetines del arreglo
+
+arr[n] = los colores de los calcetines
+hay colores pares 1 1 
+y colores impares 1
+
+tiene que retornar el numero de pares
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
