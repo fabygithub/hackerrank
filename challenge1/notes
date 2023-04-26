@@ -1,0 +1,75 @@
+https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup
+
+pile of socks
+paired by color
+array of integers representing the color of each sock
+how many pairs of socks with matching colors there are.
+
+por ejemplo seria
+
+color1
+color2
+color3
+color4
+color5
+color6
+color7
+
+
+n = 7 // seria el tamaño del array
+
+ar = [1,2,1,2,1,3,2]
+
+aca hay un par de color 1 
+y un par de color 2
+
+los demas son numeros impares
+
+Complete the sockMerchant function // la tarea es completar la funcion
+
+sockMerchant has the following parameter(s): // la funcion tiene los siguientes parametros
+
+int n: the number of socks in the pile // el numero total de calcetines
+
+int ar[n]: the colors of each sock // los colores de cada calcetin por ejemplo : color1, color2, color3
+
+Returns
+
+int: the number of pairs // va a retornar el numero de pares de cada color
+ejemplo :[1,1,2,2]  color1 = 1 par
+                    color2 = 1 par
+           
+
+Input Format
+
+The first line contains an integer n // numero total de calcetines
+
+ar[]  // va a tener los colores
+
+
+Constraints // son como las restricciones
+
+1<=  n <=100  //  significa que n no puede ser menor o igual a 1 
+              //   y n no puede ser menor o igual a 100
+              
+
+Sample Input  // es el resultado final 
+
+n = 9 // el numero total de calcetines
+10 20 20 10 10 30 50 10 20 // estos son los colores de los calcetites ejemplo: color 10, color 20, etc.
+ar = [10, 20, 20, 10, 10, 30, 50, 10, 20] // esos valores son agregados al arreglo ar
+
+
+
+          
+          
+          
+
+
+
+
+
+   
+
+
+
