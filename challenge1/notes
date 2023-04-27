@@ -59,6 +59,29 @@ n = 9 // el numero total de calcetines
 10 20 20 10 10 30 50 10 20 // estos son los colores de los calcetites ejemplo: color 10, color 20, etc.
 ar = [10, 20, 20, 10, 10, 30, 50, 10, 20] // esos valores son agregados al arreglo ar
 
+Sample Output
+3 // tiene que devolver el total de pares por ejemplo : 3 pares, 2 pares,
+
+explanation // se refiere a la explicacion , muestra una imagen para entender y resolver el problema
+            // la imagen nos muestra los 3 pares de calcetines el resultado final.
+            
+
+https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup
+
+def sockMerchant(n, ar):
+    # Write your code here  // aqui es donde falta el codigo
+    
+error indent block function //falta el bloque de la funcion
+
+strip() //elimina los espacios
+
+name 'n' is not defined // no esta definida no la conoce
+
+
+
+ 
+ 
+
 
 
           
