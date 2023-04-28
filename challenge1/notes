@@ -83,6 +83,18 @@ or
 array check repeat element
 
 
+Python Array Length - W3Schools
+python array reverse
+
+Reverse an Array in Python – 10 Examples
+
+ ar = ar[::-1]
+        print(ar)  // esto sive para dar vuelta un arreglo
+        
+
+
+
+
  
  
 
